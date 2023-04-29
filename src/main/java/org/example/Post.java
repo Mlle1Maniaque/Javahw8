@@ -1,4 +1,5 @@
 package org.example;
+
 public class Post {
     public String name;
     public String surname;
